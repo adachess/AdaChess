@@ -67,6 +67,9 @@ if you wish to use more opening books on the same time just add more command lin
 
 Note that parsing the PGN files will take some time and huge books can take minutes to be loaded.
 
+## Using AdaChess with Arena or Winboard
+
+To use AdaChess with an external UI please refer to the pdf documentation inside the DOC folder 
 
 <!--
 **adachess/AdaChess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
