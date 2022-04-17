@@ -52,10 +52,6 @@ On my laptop (Intel i5, 4Gb of ram):
 - Further selectivity algorithms in search
 - Any other ideas that is cool to have or to implement
 
-# License
-
-AdaChess is a GPL licenced software, if comes with source code and binaries for Windows (executable) in order to be used without compilation. The binaries are availabe at the official engine internet site https://www.adachess.com. Download, play and enjoy!
-
 # Compile and Run AdaChess
 
 The fastest way to compile AdaChess is to download an Ada compiler and open the gpr file (adachess.gpr). Be sure that the scenario mode is on "release" and compile it. The executable will be on the same directory.
@@ -70,6 +66,11 @@ Note that parsing the PGN files will take some time and huge books can take minu
 ## Using AdaChess with Arena or Winboard
 
 To use AdaChess with an external UI please refer to the pdf documentation inside the DOC folder 
+
+# License
+
+AdaChess is a GPL licenced software, if comes with source code and binaries for Windows (executable) in order to be used without compilation. The binaries are availabe at the official engine internet site https://www.adachess.com. Download, play and enjoy!
+
 
 <!--
 **adachess/AdaChess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
