@@ -1,9 +1,9 @@
 # AdaChess - Smart Chess Engine
 
 AdaChess is an open source chess engine written entirely in the Ada programming language. So far, AdaChess played the IGT 2014, IGT 2015, IGT 2016, IGT 2017, IGT 2018 and IGT 2019 G-6 tournaments, and the PT 54 CSVN tournament, all over the board.
-The playing strength of AdaChess is around 2100 Elo, according to the CCRL rating.
+The playing strength of AdaChess is around 2100 Elo. See the updated ELO at the [CCRL rating](http://ccrl.chessdom.com/ccrl/4040/) and [CCRL Blitz](http://ccrl.chessdom.com/ccrl/404/).
 
-For further information about the engine, please refer to the Chess Programming Wiki page of the engin https://www.chessprogramming.org/AdaChess
+For further information about the engine, please refer to the [Chess Programming Wiki](https://www.chessprogramming.org/AdaChess) page of the engine 
 
 The source code should be very readable and it is well commented. You need anyway a basic knowledge on chess programming to understand how components works together.
 AdaChess is a true original chess engine written with fun and cool ideas in mind.
