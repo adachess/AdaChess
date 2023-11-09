@@ -24,7 +24,7 @@ project AdaChess is
    for Exec_Dir use ".";
    type Mode_Type is
       ("release", "speed", "debug", "profile");
-   Mode : Mode_Type := external ("Mode", "debug");
+   Mode : Mode_Type := external ("Mode", "release");
    for Source_Dirs use ("src/libs/string_lib", "src/libs/timers_lib", "src/**");
    for Languages use ("Ada");
 
