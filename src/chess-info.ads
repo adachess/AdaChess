@@ -1,8 +1,8 @@
 --
 --  AdaChess - Smart Chess Engine
 --
---  Copyright (C) 2013-2022 - Alessandro Iavicoli
---  Email: adachess@gmail.com - Web Page: https://www.adachess.com
+--  Copyright (C) 2013-2023 - Alessandro Iavicoli
+--  Email: adachess@gmail.com - Web Page: https://github.com/adachess/AdaChess
 --
 --  This program is free software: you can redistribute it and/or modify
 --  it under the terms of the GNU General Public License as published by
@@ -41,7 +41,7 @@ package Chess.Info is
    -- Engine Version --
    --------------------
 
-   function Version return String is ("3.9.0-dev");
+   function Version return String is ("4.0");
    -- Export the current version of the engine version. The output is composed
    -- by three numbers separated by a dot. Respectively, they represent the
    -- major version, minor version and status.
@@ -72,7 +72,7 @@ package Chess.Info is
    -- Internet Site --
    -------------------
    
-   function Site return String is ("https://www.adachess.com");
+   function Site return String is ("https://github.com/adachess/AdaChess");
    -- Expose the official internet site of the engine
    
    

@@ -1,8 +1,8 @@
 --
 --  AdaChess - Smart Chess Engine
 --
---  Copyright (C) 2013-2022 - Alessandro Iavicoli
---  Email: adachess@gmail.com - Web Page: https://www.adachess.com
+--  Copyright (C) 2013-2023 - Alessandro Iavicoli
+--  Email: adachess@gmail.com - Web Page: https://github.com/adachess/AdaChess
 --
 --  This program is free software: you can redistribute it and/or modify
 --  it under the terms of the GNU General Public License as published by
@@ -16,6 +16,7 @@
 --
 --  You should have received a copy of the GNU General Public License
 --  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
 
 with Chess.Board.Directions; use Chess.Board.Directions;
 

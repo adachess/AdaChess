@@ -1,8 +1,8 @@
 --
---  AdaChess - Cool Chess Engine
+--  AdaChess - Smart Chess Engine
 --
---  Copyright (C) 2013-2019 - Alessandro Iavicoli
---  Email: adachess@gmail.com - Web Page: http://www.adachess.com
+--  Copyright (C) 2013-2023 - Alessandro Iavicoli
+--  Email: adachess@gmail.com - Web Page: https://github.com/adachess/AdaChess
 --
 --  This program is free software: you can redistribute it and/or modify
 --  it under the terms of the GNU General Public License as published by
