@@ -10,10 +10,10 @@ AdaChess is a true original chess engine written completely from scratch as hobb
 
 ## Download
 
-The latest version of the engine is the release 4.0.
+The latest version of the engine is the release 4.0. If you wish to download just the binaries (executable for Windows), follow this link:
+- [AdaChess v4.0](https://github.com/adachess/AdaChess/releases/download/v4.0/AdaChess_v4.0.zip)
 
-
-
+or navigate in this repository to get the source, tags, and so on. 
 Note: Although you can play AdaChess via console, I recommend to use an external GUI that support Winboard/Xboard protocol and setup the engine. 
 
 
